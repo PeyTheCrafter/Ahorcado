@@ -11,6 +11,7 @@ import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
 //Aqui solo va la UI sin comportameinto
+//Eres tontísimo padre
 public class AhorcadoUI extends JFrame {
 
 	protected JPanel contentPane;
